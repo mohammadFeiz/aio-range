@@ -1,0 +1,34 @@
+{
+    "name": "aio-range",
+    "version": "1.0.0",
+    "description": "linear and circular range input",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mohammadFeiz/aio-range.git"
+    },
+    "dependencies": {
+        "aio-table": "latest",
+        "aio-cordova": "latest",
+        "aio-entity": "latest",
+        "aio-input": "latest",
+        "aio-utils": "latest",
+        "aio-date": "latest"
+    },
+    "keywords": [
+        "range",
+        "slider",
+        "spinner",
+        "gauge"
+    ],
+    "author": "mohammad sharif feiz feiz.ms@gmail.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mohammadFeiz/aio-range/issues"
+    },
+    "homepage": "https://github.com/mohammadFeiz/aio-range#readme"
+}
